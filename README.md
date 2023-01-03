@@ -16,5 +16,6 @@ I'll be modeling a realistic workflow to use Git to refactor my prior Project 2 
 3- new_york_city.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+A list of the gear, software, and firmware you could need:
+https://git-scm.com/downloads.
 
