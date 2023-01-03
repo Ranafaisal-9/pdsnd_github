@@ -11,7 +11,9 @@ Tuesday, 3 January 2023
 I'll be modeling a realistic workflow to use Git to refactor my prior Project 2 in this project.
 
 ### Files used
-Include the files used
+1- chicago.csv
+2- washington.csv
+3- new_york_city.csv
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
