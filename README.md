@@ -8,7 +8,7 @@ Tuesday, 3 January 2023
 "Project post my work on GitHub" 
 
 ### Description
-Describe what your project is about and what it does
+I'll be modeling a realistic workflow to use Git to refactor my prior Project 2 in this project.
 
 ### Files used
 Include the files used
