@@ -127,9 +127,11 @@ def main():
         station_stats(df)
         trip_duration_stats(df)
         user_stats(df)
-
+        
+        #Ask you if you want play again or no 
         restart = input('\nWould you like to restart? Enter yes or no.\n')
         if restart.lower() != 'yes':
+            print("Buy!")
             break
 
 
